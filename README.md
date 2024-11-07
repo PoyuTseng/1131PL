@@ -14,7 +14,7 @@
 - **第一階段**
 1. 建立新的Unity專案練習 [專案網址](https://github.com/PoyuTseng/NTNU1131ProgrammingLanguage_61171036H)
 2. 下載與上課不同的場景素材
-3. 使用素材設計遊戲場景 [場景截圖](https://drive.google.com/file/d/1TWoLwlihKdoksunHUTe-HH7a3JtkwsVI/view?usp=drive_link)
+3. 使用素材設計遊戲場景 
 4. 截圖遊戲場景
 5. 下周上課會說明作業上傳方式
 
@@ -42,20 +42,25 @@
  
 - 建立Unity新專案
 - 下載與上課不同的場景素材
-- 使用素材設計布置遊戲場景
+- 使用素材設計布置遊戲場景[場景截圖](https://drive.google.com/file/d/1TWoLwlihKdoksunHUTe-HH7a3JtkwsVI/view?usp=drive_link)
 - 匯入角色素材
+1. 半獸人騎士[場景截圖](https://drive.google.com/file/d/1MxuEvD-NUqEESYTdQGYwRwNGXg2RKHMx/view?usp=drive_link)
+2. 戰士[場景截圖](https://drive.google.com/file/d/1s3YcPGN52x0M_NYHfYgoXgMIDWPgAKKQ/view?usp=drive_link)
+3. 農夫[場景截圖](https://drive.google.com/file/d/14n2lU0YH-2SHwD58HNCBNPLlncN9rvqn/view?usp=drive_link)
+4. 獵犬[場景截圖](https://drive.google.com/file/d/15crbkMwldZD7WQ8ADZ0egsMg1_pel1vd/view?usp=drive_link)
  
 
 - **※H.W2※**: [Video](https://drive.google.com/file/d/1Hl8CjZ8ij5JtKv832gpuW3qJF2h_DegW/view?usp=sharing) 
 - **HW02階段性完成日誌**
  
 - 添加3D角色物件素材
-- 選用半獸人騎士
+- 選用半獸人騎士(滿足條件)
 - 具備三種動作模式
-- 設置設定角色對應動作並執行預覽
+- 設置設定角色對應動作並執行預覽[路徑模式](https://drive.google.com/file/d/1Ftql0ul34rOSrEcZe-IlPxH6zX0oMqTv/view?usp=drive_link)
 1. 慢步前進
 2. 跑步行進
 3. 攻擊
+4. 跑步-攻擊-走路
  
 
 - **※H.W3※**: [作業截圖](https://drive.google.com/file/d/132QGlb60tzutg7H-MO6CKb5O7I5I9jGj/view?usp=drive_link)[作業截圖](https://drive.google.com/file/d/1MoMX60Fbkb0nmXfFZB0K_nO708ramqYj/view?usp=drive_link)
