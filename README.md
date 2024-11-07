@@ -2,6 +2,7 @@
 # 授課教師
 蔡芸琤老師  &  講師KID
 [老師的 GitHub](https://github.com/peculab/Database)
+[KID老師的 Miro](https://miro.com/app/board/uXjVKizVakM=/)
 
 ## 基本資料
 - **姓名**：曾伯宇(Tseng,Po-Yu)
@@ -19,7 +20,7 @@
 - 選用半獸人騎士
 - 具備三種動作模式
 
-- **H.W2**: [Video](https://drive.google.com/file/d/132QGlb60tzutg7H-MO6CKb5O7I5I9jGj/view?usp=drive_link) 
+- **H.W2**: [Video](https://drive.google.com/file/d/1Hl8CjZ8ij5JtKv832gpuW3qJF2h_DegW/view?usp=sharing) 
 - **HW02階段性完成日誌**
 
 - 設置設定角色對應動作並執行預覽
@@ -27,7 +28,7 @@
   2. 跑步行進
   3. 攻擊
 
-- **H.W3**: [Video](https://youtu.be/XXXXXX)
+- **H.W3**: [PrintScreem](https://drive.google.com/file/d/132QGlb60tzutg7H-MO6CKb5O7I5I9jGj/view?usp=drive_link)
 - **HW02階段性完成日誌**
 - 設定角色動作對應名詞
 - 串聯角色動作路徑
