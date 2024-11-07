@@ -60,6 +60,7 @@
 
 - **H.W3**: [作業截圖](https://drive.google.com/file/d/132QGlb60tzutg7H-MO6CKb5O7I5I9jGj/view?usp=drive_link)[作業截圖](https://drive.google.com/file/d/1MoMX60Fbkb0nmXfFZB0K_nO708ramqYj/view?usp=drive_link)
 - **HW03階段性完成日誌**
+
 設定角色動作對應名詞
 添加輸入欄位介面(使用繁體字)
 建立NPC，資料並設定要分析的句子
