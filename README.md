@@ -1,6 +1,6 @@
 # 113-1師大科技系程式語言(Programming Language)
 # 授課教師
-蔡芸琤老師  &  講師KID
+蔡芸琤老師  &  KID講師
 [老師的 GitHub](https://github.com/peculab/Database)
 [KID老師的 Miro](https://miro.com/app/board/uXjVKizVakM=/)
 
