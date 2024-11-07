@@ -14,7 +14,7 @@
 - **第一階段**
 1. 建立新的Unity專案練習 [專案網址](https://github.com/PoyuTseng/NTNU1131ProgrammingLanguage_61171036H)
 2. 下載與上課不同的場景素材
-3. 使用素材設計遊戲場景
+3. 使用素材設計遊戲場景 [場景截圖](https://github.com/PoyuTseng/NTNU1131ProgrammingLanguage_61171036H)
 4. 截圖遊戲場景
 5. 下周上課會說明作業上傳方式
 
