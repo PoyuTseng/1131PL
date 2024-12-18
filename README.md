@@ -77,13 +77,7 @@
 - 
 ## 專題連結區
 - [專題連結](超連結)
-
-- 以下是更新後包含 HuggingFace 和 ModelManager 的內容，並進一步充實專案細節的最終報告版本：
-
----
-
-### 階段式開發專案報告
-
+[構想連結](https://github.com/PoyuTseng/1131PL/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E6%A7%8B%E6%83%B3%E8%88%87%E4%BF%AE%E6%AD%A3%E8%AA%BF%E6%95%B4%E7%B4%80%E9%8C%84.docx)
 #### 1. 專案概述
 - **專案名稱**: Unity角色對戰系統
 - **開發目標**:  
