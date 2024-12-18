@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b4658449f2857444a0d8617c4b6787b, type: 3}
+  m_Name: "NPC_\u534A\u7378\u4EBA"
+  m_EditorClassIdentifier: 
+  sentences:
+  - "\u89F8\u767C\u8D70\u8DEF"
+  - "\u89F8\u767C\u8DD1\u6B65"
+  - "\u89F8\u767C\u653B\u64CA"
+  - "\u89F8\u767C\u8DD1\u780D\u8D70"
