@@ -77,6 +77,7 @@
 ## 專題連結區
 - [專題連結](超連結)
 [構想連結](https://github.com/PoyuTseng/1131PL/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E6%A7%8B%E6%83%B3%E8%88%87%E4%BF%AE%E6%AD%A3%E8%AA%BF%E6%95%B4%E7%B4%80%E9%8C%84.docx)
+[專案打包檔案](https://drive.google.com/drive/folders/1OgB4QQrgQBfI_saPQe-SCELBN3rAxxSB?usp=drive_link)
 #### 1. 專案概述
 - **專案名稱**: Unity角色對戰系統
 - **開發目標**:  
